@@ -13,8 +13,8 @@ In this capstone project, I will focus my study of food deserts within the vario
 
 # Data Sources:
 My analysis will focus on two main datasets:
-    1)	The city of Madison provides a repository of different datasets via their Open Data Portal located here: https://data-        
-    cityofmadison.opendata.arcgis.com/ This repository contains various datasets via the ARCGIS open data module. I will use the 
+
+    1)	The city of Madison provides a repository of different datasets via their Open Data Portal located here: https://data-cityofmadison.opendata.arcgis.com/  This repository contains various datasets via the ARCGIS open data module. I will use the 
     Neighborhood Plans data set to collect information about the different neighborhoods within the Madison area. 
     
     2)	Using the Foursquare location data API, we will focus our queries on the venue name “Grocery Store”, using the neighborhood data as 
