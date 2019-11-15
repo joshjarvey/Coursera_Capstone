@@ -14,11 +14,8 @@ In this capstone project, I will focus my study of food deserts within the vario
 # Data Sources:
 My analysis will focus on two main datasets:
 
-    1)	The city of Madison provides a repository of different datasets via their Open Data Portal located here: https://data-cityofmadison.opendata.arcgis.com/  This repository contains various datasets via the ARCGIS open data module. I will use the 
-    Neighborhood Plans data set to collect information about the different neighborhoods within the Madison area. 
-    
-    2)	Using the Foursquare location data API, we will focus our queries on the venue name “Grocery Store”, using the neighborhood data as 
-    a reference point. This will provide location data of the specified venue, which can then be plotted on the map (using a 1 mile radius) 
-    and analyzed with accordance to the parameters defined above. 
+1)The city of Madison provides a repository of different datasets via their Open Data Portal located here: https://data-cityofmadison.opendata.arcgis.com/  This repository contains various datasets via the ARCGIS open data module. I will use the Neighborhood Plans data set to collect information about the different neighborhoods within the Madison area. 
+
+2)Using the Foursquare location data API, we will focus our queries on the venue name “Grocery Store”, using the neighborhood data as a reference point. This will provide location data of the specified venue, which can then be plotted on the map (using a 1 mile radius) and analyzed with accordance to the parameters defined above. 
     
 By combining these two datasets, it should provide an easy and intuitive visualization to identify areas of the cities and their associated neighborhoods of where food deserts exist within the city.  I also expect to identify areas of risk for which a food desert could occur based on the density of fill from overlapping radii of influences by grocery store. 
