@@ -1,0 +1,28 @@
+X,Y,OBJECTID_1,OBJECTID,PlanName,Status,Year,SHAPE_Leng,Link,ShapeSTAre,ShapeSTLen
+-89.3410140662222,43.0986827658382,1,3,Schenk-Atwood-Starkweather-Worthington Park Neighborhood Plan,Adopted,2000,23821.4443845,https://www.cityofmadison.com/dpced/planning/documents/schenk.pdf,28355961.5487061,23821.4450502977
+-89.3721077659885,43.0869264952734,2,4,Tenney-Lapham-Old Market Neighborhood Plan,Adopted,2008,23041.9865548,https://www.cityofmadison.com/dpced/planning/documents/Tenney.pdf,13296750.5318604,17193.2457608752
+-89.3580179261634,43.0879190610145,3,5,Marquette-Schenk-Atwood Neighborhood Plan,Adopted,1994,24224.7831786,https://www.cityofmadison.com/dpced/planning/documents/marquette.pdf,22165823.134491,24224.783772686
+-89.4099403721153,43.0619877203867,4,6,Brittingham-Vilas Neighborhood Plan,Adopted,1989,21127.2789675,https://www.cityofmadison.com/dpced/planning/documents/vilas.pdf,19990114.1384277,21127.2794559061
+-89.390866106124,43.0540091469899,5,7,Bay Creek Neighborhood Plan,Adopted,1991,18309.3863695,https://www.cityofmadison.com/dpced/planning/documents/baycreek.pdf,15800758.8214722,18309.3867098448
+-89.3466468048628,43.0480484983361,6,8,Broadway-Simpson-Waunona Neighborhood Plan,Adopted,1986,22035.4657716,https://www.cityofmadison.com/dpced/planning/documents/broadway.pdf,11539684.2978821,22035.466209278
+-89.4563857214559,43.0274921673465,7,9,Allied-Dunn's Marsh Neighborhood Plan,Adopted,1990,26994.6637164,https://www.cityofmadison.com/dpced/planning/documents/allied.pdf,35589350.0589294,26994.6634711407
+-89.3290120798772,43.1139402916572,8,11,Carpenter-Ridgeway-Hawthorne-Truax Neighborhood Plan,Adopted,2001,25039.2350631,https://www.cityofmadison.com/dpced/planning/documents/carpenter.pdf,30823110.848053,25031.0227771932
+-89.4883928029351,43.0451187730916,9,14,Southwest Neighborhood Plan,Adopted,2008,40012.2728757,https://www.cityofmadison.com/dpced/planning/documents/Southwest.pdf,78363975.9711914,40012.2723151421
+-89.3848032506589,43.0512556813216,10,15,South Madison Neighborhood Plan,Adopted,2005,44949.0860101,https://www.cityofmadison.com/dpced/planning/documents/South_Madison.pdf,62197357.1662903,44949.0864763277
+-89.4743206620488,43.0818707850924,11,16,Spring Harbor Neighborhood Plan,Adopted,2006,19413.8837316,https://www.cityofmadison.com/dpced/planning/documents/Spring_Harbor.pdf,17892963.1933289,19413.8830132665
+-89.4048874748019,43.0626035483438,12,17,Greenbush Plan,Adopted,2008,11969.3626116,https://www.cityofmadison.com/dpced/planning/documents/Greenbush.pdf,8119667.65731812,11969.3629921755
+-89.3666542115138,43.1270625633749,13,20,Northport Warner Park Sherman Neighborhood Plan,Adopted,2009,54840.5124801,https://www.cityofmadison.com/dpced/planning/documents/NWS_NeighborhoodPlan.pdf,79802005.6726379,54840.5122254586
+-89.4539669943591,43.0289050065514,14,25,Allied-Dunn's Marsh-Belmar Neighborhoods Physical Improvement Plan,Adopted,2005,16748.432622,https://www.cityofmadison.com/dpced/planning/documents/Allied_Belmar.pdf,21507002.2459412,16748.4327839135
+-89.4049713512139,43.0690139236826,15,27,Regent Street - South Campus Plan,Adopted,2008,11040.529058,https://www.cityofmadison.com/dpced/planning/documents/RSSCPl.pdf,4719475.56188965,11040.5292418688
+-89.3039486143111,43.1023348227536,16,41,Hiestand Neighborhood Plan,Adopted,2006,20140.2294659,https://www.cityofmadison.com/dpced/planning/documents/Hiestand.pdf,17834318.2054443,20140.2294242412
+-89.4579891456148,43.0518027180752,17,55,Midvale Heights\Westmorland Joint Neighborhood Plan,Adopted,2009,32579.6762461,https://www.cityofmadison.com/dpced/planning/documents/Midvale_Westmorland.pdf,53665389.2732544,32579.6761608287
+-89.3578126096793,43.1022513624016,18,56,Emerson East Eken Park Yahara Neighborhood Plan,Adopted,2015,0,https://madison.legistar.com/View.ashx?M=F&ID=4040473&GUID=DC959BAE-3595-4CC6-80A9-331846275288,37921949.347168,32701.2085811356
+-89.423832753649,43.0727739402464,19,57,University Avenue Corridor Plan,Adopted,0,0,https://www.cityofmadison.com/dpced/planning/documents/UAC_Plan%20June2014.pdf,3256536.00799561,12376.8478060939
+-89.4597895637695,43.0693682470932,20,58,University Hill Farms Neighborhood Plan,Adopted,2015,0,https://madison.legistar.com/View.ashx?M=F&ID=3999265&GUID=EABDE770-3277-4907-9D22-14260E64A807,29957939.9869995,27142.5346282185
+-89.445473921888,43.0680530324425,21,59,Hoyt Park Area Neighborhood Plan,Adopted,2014,0,https://www.cityofmadison.com/dpced/planning/documents/Hoyt_Neighborhood_Plan2014.pdf,23353534.2557373,20872.263302453
+-89.4280498048482,43.0301035653405,22,60,Arbor Hills-Leopold Neighborhood Plan,Adopted,2013,0,https://www.cityofmadison.com/dpced/planning/documents/AHL_Plan.pdf,47000775.1328125,35363.3451618715
+-89.3893223953392,43.0728761706331,23,61,Downtown Plan,Adopted,2012,0,http://www.cityofmadison.com/dpced/planning/documents/Downtown_Plan.pdf,26331521.5190125,21582.8020679548
+-89.4221413222311,43.060540660472,24,62,Monroe Street Commercial District Plan,Adopted,2007,0,http://www.cityofmadison.com/dpced/planning/documents/monroe.pdf,21208071.9625244,27738.4432964915
+-89.3703871702827,43.0843980835883,25,63,East Washington Capitol Gateway Corridor,Adopted,2008,0,http://www.cityofmadison.com/dpced/planning/documents/Capitol_Gateway_Corridor_Plan.pdf,6070057.26123047,16767.3225828048
+-89.3094728413848,43.0769601737371,26,64,Stoughton Road Revitalization Project,Adopted,2008,0,http://www.cityofmadison.com/dpced/planning/documents/SRRPPlanFinal%209_08.pdf,29969562.6778259,56142.987962263
+-89.3973181080393,43.052813376806,27,65,Wingra Creek Build,Adopted,2006,0,,1917437.73391724,6774.31787302174
